@@ -191,7 +191,7 @@
 <tspan x="10" y="3018">  │ │ │ ├── extsprintf@1.0.2 </tspan>
 <tspan x="10" y="3034">  │ │ │ ├── json-schema@0.2.3 </tspan>
 <tspan x="10" y="3050">  │ │ │ └── verror@1.3.6 </tspan>
-<tspan x="10" y="3066">  │ │ └─┬ sshpk@1.11.0 </tspan>
+<tspan x="10" y="3066">  │ │ └─┬ sshpk@1.13.0 </tspan>
 <tspan x="10" y="3082">  │ │   ├── asn1@0.2.3 </tspan>
 <tspan x="10" y="3098">  │ │   ├── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="3114">  │ │   ├── bcrypt-pbkdf@1.0.1 </tspan>
